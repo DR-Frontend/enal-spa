@@ -1,6 +1,7 @@
 :root{
    --first-color: #c4d140;
    --second-color: #202020;
+   --second-color-modal: rgba(32, 32, 32,.6);
    --third-color: #eaeaea;
    --max-width: 1000px;
    --font-size: 16px;
