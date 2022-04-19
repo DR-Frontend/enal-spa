@@ -1,0 +1,47 @@
+:root{
+   --first-color: #c4d140;
+   --second-color: #202020;
+   --third-color: #eaeaea;
+   --max-width: 1000px;
+   --font-size: 16px;
+}
+*{
+   margin: 0;
+   padding: 0;
+   border: 0;
+   vertical-align: baseline;
+}
+*,
+*::before,
+*::after{
+  box-sizing: inherit;
+}
+html{
+   scroll-behavior: smooth;
+}
+body{
+   font-size: var(--font-size);
+   color: var(--second-color);
+   overflow-x: hidden;
+}
+img{
+   min-width: 100%;
+   height: auto;
+}
+li{
+   list-style: none;
+}
+h1, h2, h3, h4, h5, h6,
+p, a, b, u, i, em,
+span, strong, blockquote{
+   font-size: 1rem;
+   font-weight: inherit;
+   font-style: inherit;
+   text-decoration: none;
+   color: inherit;
+}
+
+.btn{
+   width: 250px;
+   display: block;
+}
