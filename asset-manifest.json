@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/enal-spa/static/css/main.073c9b0a.css",
+    "main.js": "/enal-spa/static/js/main.dce33cda.js",
+    "static/js/787.166cb85d.chunk.js": "/enal-spa/static/js/787.166cb85d.chunk.js",
+    "static/media/logo.svg": "/enal-spa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/enal-spa/index.html",
+    "main.073c9b0a.css.map": "/enal-spa/static/css/main.073c9b0a.css.map",
+    "main.dce33cda.js.map": "/enal-spa/static/js/main.dce33cda.js.map",
+    "787.166cb85d.chunk.js.map": "/enal-spa/static/js/787.166cb85d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dce33cda.js"
+  ]
+}
