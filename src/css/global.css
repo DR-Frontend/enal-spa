@@ -24,9 +24,10 @@ body{
    font-size: var(--font-size);
    color: var(--second-color);
    overflow-x: hidden;
+   background-color: var(--first-color);
 }
 img{
-   min-width: 100%;
+   max-width: 100%;
    height: auto;
 }
 li{
