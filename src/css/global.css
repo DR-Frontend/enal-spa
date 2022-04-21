@@ -1,7 +1,7 @@
 :root{
    --first-color: #c4d140;
-   --second-color: #202020;
-   --second-color-modal: rgba(32, 32, 32,.6);
+   --second-color: #1d1e26;
+   --second-color-modal: rgba(29, 30, 38,.6);
    --third-color: #eaeaea;
    --max-width: 1000px;
    --font-size: 16px;
@@ -41,6 +41,7 @@ span, strong, blockquote{
    font-style: inherit;
    text-decoration: none;
    color: inherit;
+   font-family: sans-serif;
 }
 
 .btn{

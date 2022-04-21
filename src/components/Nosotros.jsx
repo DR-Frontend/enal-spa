@@ -22,12 +22,12 @@ import cli9 from "../assets/imgs/cliente_tecmonterrey.png"
 
 const Nosotros = ()=>(
    <div id="nosotros" className="nosotros">
-      <h2 className="nosotros__title">NOSOTROS : ENAL</h2>
       <div className="nosotros__desc">
          <div className="nosotros__desc-img">
             <img src={Image1} alt="Enal" />
          </div>
          <div className="nosotros__desc-txt">
+            <h2 className="nosotros__title">NOSOTROS : ENAL</h2><br/>
             <p>Somos una empresa que además de producir a gran escala anuncios y espectaculares, se une contigo y con tu proyecto para dar inicio a tu negocio o remodelarlo.<br/>
             Le damos vida a anuncios mediante tus ideas, las creamos y realizamos mediante el neón, acrílico y aluminio.<br/>
             Tenemos un equipo especializado para apoyarte y asesorarte en diseño gráfico, iluminación y desarrollo web</p>
@@ -47,7 +47,7 @@ const Nosotros = ()=>(
          <img src={img11} alt="" />
       </div>
       <div className="nosotros__clients">
-         <h2 className="nosotros__title">NUESTROS CLIENTES</h2>
+         <h2 className="nosotros__title">NUESTROS CLIENTES</h2><br/>
          <div className="nosotros__clients-list">
             <img src={cli1} alt="" />
             <img src={cli2} alt="" />
