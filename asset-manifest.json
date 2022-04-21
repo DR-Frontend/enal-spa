@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/enal-spa/static/css/main.bcbe340e.css",
-    "main.js": "/enal-spa/static/js/main.21e25dea.js",
+    "main.css": "/enal-spa/static/css/main.9dbaacf4.css",
+    "main.js": "/enal-spa/static/js/main.a268e2b3.js",
     "static/js/787.166cb85d.chunk.js": "/enal-spa/static/js/787.166cb85d.chunk.js",
     "static/media/lights.mp4": "/enal-spa/static/media/lights.89d0579201b5e143f70c.mp4",
+    "static/media/anc1.png": "/enal-spa/static/media/anc1.20ffe152568b643aa4de.png",
     "static/media/galeria3.png": "/enal-spa/static/media/galeria3.b2e91f444e800445b050.png",
     "static/media/galeria4.png": "/enal-spa/static/media/galeria4.7e047e0d8e407e843d51.png",
     "static/media/anc4.png": "/enal-spa/static/media/anc4.e737e19bff4e89d0a19f.png",
@@ -15,6 +16,8 @@
     "static/media/galeria5.png": "/enal-spa/static/media/galeria5.b5c5439fa2e82be597cf.png",
     "static/media/galeria2.png": "/enal-spa/static/media/galeria2.be6393d64873f640ad82.png",
     "static/media/galeria6.png": "/enal-spa/static/media/galeria6.8ebd544ce49c4e526817.png",
+    "static/media/anc2.png": "/enal-spa/static/media/anc2.83b0059d6db28527b223.png",
+    "static/media/anc3.png": "/enal-spa/static/media/anc3.9a388af6645c47412073.png",
     "static/media/cliente_jagermeifter.png": "/enal-spa/static/media/cliente_jagermeifter.81b3fe14a9e92d625289.png",
     "static/media/galeria11.png": "/enal-spa/static/media/galeria11.ff79a2d9a4a51d6e7588.png",
     "static/media/cliente_plazacarso.png": "/enal-spa/static/media/cliente_plazacarso.4c45bf9e4c366b0ec63b.png",
@@ -26,12 +29,12 @@
     "static/media/cliente_tecmonterrey.png": "/enal-spa/static/media/cliente_tecmonterrey.ab27418b752691894dd4.png",
     "static/media/cliente_santafe.png": "/enal-spa/static/media/cliente_santafe.2890e02f01543052574a.png",
     "index.html": "/enal-spa/index.html",
-    "main.bcbe340e.css.map": "/enal-spa/static/css/main.bcbe340e.css.map",
-    "main.21e25dea.js.map": "/enal-spa/static/js/main.21e25dea.js.map",
+    "main.9dbaacf4.css.map": "/enal-spa/static/css/main.9dbaacf4.css.map",
+    "main.a268e2b3.js.map": "/enal-spa/static/js/main.a268e2b3.js.map",
     "787.166cb85d.chunk.js.map": "/enal-spa/static/js/787.166cb85d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcbe340e.css",
-    "static/js/main.21e25dea.js"
+    "static/css/main.9dbaacf4.css",
+    "static/js/main.a268e2b3.js"
   ]
 }
